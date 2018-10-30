@@ -53,6 +53,7 @@
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Utilities\DateTimeExtensions.cs" />
     <Compile Include="Utilities\MachineEpsilon.cs" />
+    <Compile Include="Widgets\SkippingLastDividerItemDecoration.cs" />
     <Compile Include="Widgets\SectionedAdapter.cs" />
     <Compile Include="Widgets\SelectableAdapter.cs" />
   </ItemGroup>
